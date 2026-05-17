@@ -6,7 +6,7 @@ include '../includes/db.php';
 <!DOCTYPE html>
 <html>
 <head>
-<title>Comment Moderation</title>
+<title><h1>Comment Moderation Panel</h1></title>
 <style>
 body{
 font-family: arial;
