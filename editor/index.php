@@ -6,7 +6,7 @@ include '../includes/db.php';
 <!DOCTYPE html>
 <html>
 <head>
-<title>Editor Dashboard</title>
+<title><h3>Welcome to Editor Dashboard</h3></title>
 <style>
 body{
 font-family: arial;
