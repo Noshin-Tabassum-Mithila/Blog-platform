@@ -36,7 +36,7 @@ text-decoration: none;
 </style>
 </head>
 <body>
-
+<?php include '../includes/navbar.php'; ?>
 <h1>Welcome <?php echo $_SESSION['name']; ?></h1>
 <h3>Editor Dashboard</h3>
 
