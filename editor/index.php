@@ -7,6 +7,7 @@ include '../includes/db.php';
 <html>
 <head>
 <title><h3>Welcome to Editor Dashboard</h3></title>
+<p style="color:#888">Today: <?php echo date('D, d M Y'); ?></p>
 <style>
 body{
 font-family: arial;
