@@ -77,6 +77,7 @@ $d3 = mysqli_fetch_assoc($r3);
 <a href="categories.php">Categories</a>
 <a href="publish.php">Publish Articles</a>
 <a href="queue.php">Article Queue</a>
+<a href="calendar.php">Calendar</a>
 <a href="comments.php">Comments</a>
 <a href="../logout.php">Logout</a>
 
