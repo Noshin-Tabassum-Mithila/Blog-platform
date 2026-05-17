@@ -73,7 +73,7 @@ $d3 = mysqli_fetch_assoc($r3);
 </div>
 
 <br><br>
-
+<a href="profile.php">My Profile</a>
 <a href="queue.php">Article Queue</a>
 <a href="comments.php">Comments</a>
 <a href="../logout.php">Logout</a>
